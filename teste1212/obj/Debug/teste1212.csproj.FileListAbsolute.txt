@@ -1,0 +1,10 @@
+C:\Users\P114\source\repos\teste1212\teste1212\obj\Debug\teste1212.csprojAssemblyReference.cache
+C:\Users\P114\source\repos\teste1212\teste1212\obj\Debug\teste1212.Form1.resources
+C:\Users\P114\source\repos\teste1212\teste1212\obj\Debug\teste1212.Properties.Resources.resources
+C:\Users\P114\source\repos\teste1212\teste1212\obj\Debug\teste1212.csproj.GenerateResource.cache
+C:\Users\P114\source\repos\teste1212\teste1212\obj\Debug\teste1212.csproj.CoreCompileInputs.cache
+C:\Users\P114\source\repos\teste1212\teste1212\bin\Debug\teste1212.exe.config
+C:\Users\P114\source\repos\teste1212\teste1212\bin\Debug\teste1212.exe
+C:\Users\P114\source\repos\teste1212\teste1212\bin\Debug\teste1212.pdb
+C:\Users\P114\source\repos\teste1212\teste1212\obj\Debug\teste1212.exe
+C:\Users\P114\source\repos\teste1212\teste1212\obj\Debug\teste1212.pdb
